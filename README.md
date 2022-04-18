@@ -1,5 +1,6 @@
 # Quick-Reference-Git
-A Quick Reference Git to various git commands and various operations that can be done on git
+A Quick Reference Git to various git commands and various operations that can be done on git.
+This repo also contains info related to the best ways in organizing the git hub repos
 
 1. sairam brothers
 2. github commit messages are not appropriate
